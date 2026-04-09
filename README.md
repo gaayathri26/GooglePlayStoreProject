@@ -154,6 +154,15 @@ jupyter notebook playstore.ipynb
 - [x] Final Report with Insights
 
 ---
+## DashBoard
+
+
+
+
+
+
+
+---
 
 ## 👩‍💻 Author
 
@@ -163,5 +172,5 @@ jupyter notebook playstore.ipynb
 
 ---
 
-*This project was built as part of a 12th grade data analytics curriculum using real-world tools and a real dataset.*
+
 
