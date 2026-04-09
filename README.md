@@ -1,6 +1,6 @@
 ﻿# 📱 Google Play Store Data Analytics Project
 
-A complete end-to-end data analytics project analyzing **10,000+ apps** from the Google Play Store — built as a 12th grade student project using Excel, SQL, Python, and Power BI.
+A complete end-to-end data analytics project analyzing **10,000+ apps** from the Google Play Store — built using Excel, SQL, Python, and Power BI.
 
 ---
 
