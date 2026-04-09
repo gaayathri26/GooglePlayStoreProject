@@ -14,7 +14,6 @@ This project explores the Google Play Store dataset to uncover meaningful patter
 | 📊 Rows | 10,841 (raw) → 8,196 (after cleaning) |
 | 🛠️ Tools | Excel, SQL, Python, Power BI |
 | 👩‍💻 Author | Gaayathri K G |
-| 🎓 Grade | 12th Standard |
 
 ---
 
